@@ -226,3 +226,8 @@ footer p{
     color: rgb(24, 23, 23);
     background-image: linear-gradient(to right, #3973c8 0%, #0eebca 100%);
 }
+.copyright p{
+    text-align: center;
+    margin-top: 60px;
+    color: rgb(119, 116, 116);
+}
